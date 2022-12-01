@@ -8,6 +8,5 @@ To understand it, go through the above notebook which explains how to get that m
 Sample can be found in the below links:
 
 [Documentation Link](https://stumpy.readthedocs.io/en/latest/Tutorial_The_Matrix_Profile.html)
-
 [Paper Link 1](https://www.cs.ucr.edu/~eamonn/PID4481997_extend_Matrix%20Profile_I.pdf)
 
